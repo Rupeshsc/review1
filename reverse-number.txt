@@ -1,0 +1,9 @@
+initialize n, reverse = 0, remainder
+
+input interger by user
+
+while (n!=0)
+	rem = n % 10
+	rev = rev * 10 + rem
+ 
+output = reverse number
